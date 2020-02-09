@@ -8,6 +8,7 @@
         <module>sa-user</module>
         <module>sa-common</module>
         <module>sa-user</module>
+        <module>sa-user</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -97,6 +98,7 @@
             <artifactId>spring-security-test</artifactId>
             <scope>test</scope>
         </dependency>
+
     </dependencies>
 
     <dependencyManagement>
